@@ -1,4 +1,4 @@
-#Java Junit tests without build tools
+#Java Junit 4 tests without build tools
 
 This Repo was inspired by a struggle in a class of mine where we were
 expected to do testing that would pass on our school lab computers but our school lab
@@ -8,3 +8,5 @@ testrunners.
 
 The tests.sh file can run all the commands you need (chmod +x test.sh)
 The files only seem to work if they are all in one directory with lib directy accessible
+
+For any assistance feel free to open an issue!
